@@ -54,7 +54,7 @@ const Youritems = ({ setSelectedItem, setSelectedPage, theme }) => {
       };
 
       const { data } = await axios.delete(
-        "http://localhost:5000/api/item/delete",
+        "https://fresher-s-heist.onrender.com/api/item/delete",
         { itemId: id },
         config
       );

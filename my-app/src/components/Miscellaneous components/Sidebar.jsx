@@ -67,7 +67,7 @@ const Sidebar = ({
       };
 
       const { data } = await axios.get(
-        `http://localhost:5000/api/item/searchitem?search=${searched}`,
+        `https://fresher-s-heist.onrender.com/api/item/searchitem?search=${searched}`,
         config
       );
 

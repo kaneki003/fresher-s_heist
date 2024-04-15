@@ -20,7 +20,7 @@ const Googlelogin = () => {
             },
           };
           const { data } = await axios.post(
-            'http://localhost:5000/api/user',
+            'https://fresher-s-heist.onrender.com/api/user',
             {
               email: email,
               branch:branch,

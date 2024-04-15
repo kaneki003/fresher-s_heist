@@ -61,7 +61,7 @@ const Sellingdetails = ({theme}) => {
       };
 
       const { data } = await axios.post(
-        "http://localhost:5000/api/item/createitem",
+        "https://fresher-s-heist.onrender.com/api/item/createitem",
         { name: title, price: price, description: desc, category: category ,pic:Image},
         config
       );

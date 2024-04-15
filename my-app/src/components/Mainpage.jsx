@@ -43,7 +43,7 @@ const Mainpage = ({ setSelectedItem, setSelectedPage, theme }) => {
       };
 
       const { data } = await axios.get(
-        "http://localhost:5000/api/item/fetchall",
+        "https://fresher-s-heist.onrender.com/api/item/fetchall",
         config
       );
 

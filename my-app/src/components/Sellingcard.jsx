@@ -19,7 +19,7 @@ const Sellingcard = ({item,setSelectedItem,setSelectedPage,theme}) => {
   return (
    <>
    {item &&  <Box>
-      <Card W="20rem" minH="26.5rem" bgColor={theme?"#0E0E0E":"#F1EEE4"} textColor={theme?"#EBEDEF":"black"} >
+      <Card W="20rem" bgColor={theme?"#0E0E0E":"#F1EEE4"} textColor={theme?"#EBEDEF":"black"} >
         <CardBody pb="0">
           <Image
             src={item.pic?item.pic:"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"}

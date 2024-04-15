@@ -11,7 +11,7 @@ Freshers' MarketPlace is a user-friendly online platform that facilitates direct
 The live website can be accessed [here](https://fresher-s-heist.vercel.app).
 
 ### Video Demonstration
-A video demonstration of the live website can be found here.
+A video demonstration of the live website can be found [here](https://jmp.sh/aGITXcrF)
 
 ### Problem Statement
 Freshers face difficulties when trying to contact seniors for purchasing items. The existing process involves saving contacts from an Excel sheet, then reaching out via WhatsApp. This process has several issues such as outdated lists, incomplete information, lack of images, and payment challenges.

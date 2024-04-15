@@ -8,7 +8,7 @@ This repository contains the code for an online platform designed to facilitate 
 Freshers' MarketPlace is a user-friendly online platform that facilitates direct communication between seniors and freshers for buying and selling various items, including ED kits, bicycles, manufacturing coats, and more.
 
 ### Website
-The live website can be accessed [here](https://fresher-s-heist-fi9t.vercel.app).
+The live website can be accessed [here](https://fresher-s-heist-fi9t.vercel.app).Please note that sign-in functionality is restricted to IIT BHU accounts only. If the server takes longer than expected to fetch data, please try reloading the page or clicking the button again. Any updates made by the user will be reflected upon re-login.
 
 ### Video Demonstration
 A video demonstration of the live website can be found [here](https://jmp.sh/aGITXcrF)

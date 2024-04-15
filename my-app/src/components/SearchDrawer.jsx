@@ -60,7 +60,7 @@ const SearchDrawer = () => {
         },
       };
 
-      const { data } = await axios.get(`http://localhost:5000/api/item/searchitem?search=${search}`, config);
+      const { data } = await axios.get(`https://fresher-s-heist.onrender.com/api/item/searchitem?search=${search}`, config);
       setLoading(false);
       SetsearchResults(data);
     } catch (error) {

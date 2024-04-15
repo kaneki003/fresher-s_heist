@@ -1,10 +1,17 @@
-# Fresher-s-Heist
+# Fresher's Heist
+
 This repository contains the code for an online platform designed to facilitate direct communication between seniors and freshers for buying and selling various items. The platform is built using React (Vite), MongoDB, Chakra UI, TailWind, Node.js, and Express.js.
 
 ## Project Title: Fresher's Heist
 
 ### Overview
 Freshers' MarketPlace is a user-friendly online platform that facilitates direct communication between seniors and freshers for buying and selling various items, including ED kits, bicycles, manufacturing coats, and more.
+
+### Website
+The live website can be accessed here.
+
+### Video Demonstration
+A video demonstration of the live website can be found here.
 
 ### Problem Statement
 Freshers face difficulties when trying to contact seniors for purchasing items. The existing process involves saving contacts from an Excel sheet, then reaching out via WhatsApp. This process has several issues such as outdated lists, incomplete information, lack of images, and payment challenges.
@@ -33,6 +40,5 @@ The platform also supports a dark mode feature to provide a comfortable viewing 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Start the frontend server using `npm run start`.
-4. Start tthe backend server using `npx nodemon server.js`
+4. Start the backend server using `npx nodemon server.js`
 5. Open your browser and navigate to `http://localhost:3000`.
-

@@ -83,7 +83,7 @@ const Userdetails = ({theme}) => {
       }
 
       const { data } = await axios.put(
-        "http://localhost:5000/api/user/update",
+        "https://fresher-s-heist.onrender.com/api/user/update",
         Payload,
         config
       );

@@ -30,7 +30,7 @@ const Mycards = ({ theme, item, setSelectedItem, setSelectedPage,handleFunction,
       };
 
       const { data } = await axios.put(
-        "http://localhost:5000/api/item/updateitem",
+        "https://fresher-s-heist.onrender.com/api/item/updateitem",
         { itemId : id },
         config
       );
